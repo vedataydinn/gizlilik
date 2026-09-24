@@ -5,6 +5,7 @@
     { "source": "/gizlilik/", "destination": "https://sectik.com.tr/gizlilik/", "permanent": true },
     { "source": "/kullanim-kosullari/", "destination": "https://sectik.com.tr/kullanim-kosullari/", "permanent": true },
     { "source": "/hesap-silme/", "destination": "https://sectik.com.tr/hesap-silme/", "permanent": true },
+    { "source": "/", "destination": "https://sectik.com.tr/", "permanent": true },
     { "source": "/:path*", "destination": "https://sectik.com.tr/", "permanent": true }
   ]
 }
